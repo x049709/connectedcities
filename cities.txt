@@ -1,0 +1,12 @@
+xx,
+,ww,dd,yyy
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
+Green Bay, Tampa
+Tampa, Orlando
+Orlando, Memphis
+Memphis, Livingston
+Livingston, Boston
+er
